@@ -19,6 +19,6 @@ public class Singleton {
 	}
 	protected static void demo(){
 		System.out.println("Demo method for singleton class");
-		//git class
+		// my practice
 	}
 }
