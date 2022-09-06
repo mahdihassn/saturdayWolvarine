@@ -11,7 +11,7 @@ public class MethodType {
 		weeklyIncomeStatic();
 		
 		System.out.println("My Monthly Income= " + myjob.monthlyIncomeReturn());
-	
+	//git status
 
 	}
 	
